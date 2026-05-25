@@ -1,0 +1,4 @@
+venv/
+variant_summary.txt
+__pycache__/
+*.pyc
